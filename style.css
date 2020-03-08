@@ -1,9 +1,3 @@
-/***
-User Profile Sidebar by @keenthemes
-A component of Metronic Theme - #1 Selling Bootstrap 3 Admin Theme in Themeforest: http://j.mp/metronictheme
-Licensed under MIT
-***/
-
 @import url('https://fonts.googleapis.com/css?family=Montserrat:500');
 
 {box-sizing: border-box;}
@@ -35,7 +29,7 @@ body {
 
 /* Profile container */
 .profile {
-  margin: 20px 0;
+  margin: 40px 0;
 }
 
 /* Profile sidebar */
@@ -92,7 +86,7 @@ body {
 }
     
 .profile-usermenu {
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 .profile-usermenu ul li {
@@ -134,5 +128,5 @@ body {
 .profile-content {
   padding: 20px;
   background: #fff;
-  min-height: 460px;
+  min-height: 1200px;
 }
